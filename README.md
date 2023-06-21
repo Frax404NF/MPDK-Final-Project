@@ -1,4 +1,4 @@
-# Proyek Submission MPK 
+# Proyek Submission MPK Dicoding
 
 **Aturan mengerjakan submission**<br>
 Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
